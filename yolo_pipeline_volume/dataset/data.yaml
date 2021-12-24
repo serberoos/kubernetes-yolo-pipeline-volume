@@ -1,0 +1,5 @@
+train: /usr/src/app/yolo_pipeline_volume/dataset/train/images
+val: /usr/src/app/yolo_pipeline_volume/dataset/valid/images
+
+nc: 2
+names: ['mask', 'no-mask']

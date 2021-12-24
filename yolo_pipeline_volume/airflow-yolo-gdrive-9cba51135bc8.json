@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airflow-yolo-gdrive",
+  "private_key_id": "9cba51135bc8790a288e749c10772ed5a4385b77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIEGjmEhRQMabo\n0XPjSnJtu5VSTElQQCdn2YOUHavdwctvYMO7QOiy2kvdJotQbTC34CVI+0WnNFo0\nTStr+nonJ4QSoYw/RrZqHQxP/UQS1bx2fj/anILDYChzJqzvXL3eg1HCmz2zW2u8\nMtyrXV4vHNZwAMS6HRdYUlQFwpq9sW/x6ePveOye8dZbrUTKBQ8jKokWMLfOd6Q3\nIvwIzfbHlJdk6ZxX43kVG0/34w9XcPj/+sUu0ZSbo9UGJpW//lYiGbBvk/wNnN83\nfaf3AnLAYR5n6mBGxE/zktImANF+ioKSivROLPqJUYGUaPNdm2a0zI1URg4N6dti\npbHUBRVbAgMBAAECggEABfdzA0osIRJMepRMkwiKhFe+r56m+WXPLm8p4c/4aw9e\nxtbkfQoF19eurYgsNhg5GkZ2074mZAfRIwoGwn7M4HFLVcM4GmcBZ7bDJIzMurSc\nsNMST18ACYUGGac48FpDpTebZSnetDWEyAe3EOxds7idTEpMCdnYuCjqkCB+C91s\nIXiwwCQOSr2i/gs0YEos3IcOBJo727iRyu0HosqN+mDjeCt/xTXasMo3DTNZC5oW\nYg5K/1NEGP7pmTN9f24saHTanwpedghWL7IMSbQ0mnLYZVcXaRkjF4MqADY3EhGZ\nR4vSrb4m73VVsG4ql8JcmIEjQr2ml6MVNyG9EMgqsQKBgQD6nb6T4fJnoseYEbQN\nnbE/br4gGwxQb8+QdyNKborpH1wkbbG+loQ6a8BszHV65GEolCtugEBfJdSeQlDx\nEdvkpVIWpYr17pGKlF8UfLA/znpsmjLra9yWOnUUJ36vbjdkJd9Niib7w5iFgNjZ\nlRURirnibR83BkbXR/fOPNGKOQKBgQDMXKffiQg4jRsOAA5wdM507RZOhzmAVPVl\nsm4+3BkuUcsDKfiSXuVonFw/hlBwxRD8HlgU+KVLMDLhWlsmA/e5wTTGcjOBcv82\nNLmvfTLLdTFAQyjVs/k4p9078e0no3IBBryWrA59jIK4e468zy4onpEUzxLWYKc0\n3C3OyarsMwKBgElOjwpu0xshcES5GPPKpqgpWo/FmaqFqi9VygrhntxmAevd8loP\naQo1romknNCfsRPPk4y1Ex9Bz5mjSE3brXiKKyLYtXcOm5/vmohBmMRxPzo5OJ/I\nYzPGUazdiJ8EHEu9ED58JL8MDbcvYz7x7sG81Ha4+KJ9wYcDVCcNfzVxAoGAQG+W\nnuzeIrabKTbrVpn93vBCcFBC2SvwlDhGept7dRdlI4JAViaFvw5OJ9l505TPXi9T\nJomf1K1F3bhXtQzbNz6sHUY050QTJExLoAGh2nUBKnoCjh9JHYwQPa5yUGVAtQIi\nxH9LslpzfSe4QeAxda1JoX4JOn8POaOS7fi4Y/ECgYBAfc59YqBzSpk0NEcH/joa\nS7D47SgfNN59FGz1LTPxAHiiXcjoa0QLMBCkLs6RVLRoefacjNdm8Y+ragZ/vMQ+\np/yhQnfOyC9Mi/O570Ph54J5Ka35/6JkutXb+Rjnj/tqnmzRERNP4qK+iUN7Vrux\nq5UnADlT5/h2Q5GXIme4Lg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "serberos@airflow-yolo-gdrive.iam.gserviceaccount.com",
+  "client_id": "105393638385623334306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serberos%40airflow-yolo-gdrive.iam.gserviceaccount.com"
+}
